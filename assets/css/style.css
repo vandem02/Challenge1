@@ -21,8 +21,8 @@ body {
   font-size: 48px;
 }
 
-.header h1 .seo {
-  color: #d9dcd6;
+.header h1 .seo { /* Changes the "seo" in "Horiseon" to a green color */
+  color: #8fdc42;
 }
 
 .header div {
@@ -51,13 +51,10 @@ p {
   font-size: 16px;
 }
 
-.hero {
+.title-image {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
-  background-size: cover;
-  background-position: center;
 }
 
 .float-left {
